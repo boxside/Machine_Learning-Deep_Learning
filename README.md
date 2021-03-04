@@ -35,7 +35,7 @@ Portofolio about Machine Learning and Deep Learning Project
   * the result about topic is dominate by **negative sentiment**
 
 
- # ![4. Face regocnition using OpenCV](https://github.com/boxside/Face_recognition_OpenCV)
+ # ![4. Face recognition using OpenCV](https://github.com/boxside/Face_recognition_OpenCV)
  
  
   ![opencv](https://github.com/boxside/Face_recognition_OpenCV/blob/main/muke/Untitled.png)
